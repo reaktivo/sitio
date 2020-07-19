@@ -87,5 +87,5 @@ sitio
 
 ### Inspired by
 
-[Site.js](https://sitejs.org/)
-[QuickJS](https://bellard.org/quickjs/quickjs.html)
+- [Site.js](https://sitejs.org/)
+- [QuickJS](https://bellard.org/quickjs/quickjs.html)
