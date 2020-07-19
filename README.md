@@ -84,3 +84,8 @@ Go to your site folder
 cd my-site
 sitio
 ```
+
+### Inspired by
+
+[Site.js](https://sitejs.org/)
+[QuickJS](https://bellard.org/quickjs/quickjs.html)
